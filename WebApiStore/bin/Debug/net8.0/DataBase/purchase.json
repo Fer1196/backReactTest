@@ -1,0 +1,66 @@
+[
+  {
+    "List": [
+      {
+        "CproId": 1,
+        "CproCodigo": 183,
+        "CaprId": 25,
+        "UnidCodigo": 50,
+        "CproCodigoint": "SBA00210",
+        "CproCodigobarras": " ",
+        "CproNombre": "BIOCOMPOST X 23 KG",
+        "CproDescripcion": "BIOCOMPOST X 23 KG",
+        "CproMarca": "0",
+        "CproUbicacion": "0",
+        "CproTipoPrecio": null
+      },
+      {
+        "CproId": 1,
+        "CproCodigo": 185,
+        "CaprId": 25,
+        "UnidCodigo": 50,
+        "CproCodigoint": "AAAAAAAAAAAAAAAAAAAAAA",
+        "CproCodigobarras": " ",
+        "CproNombre": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "CproDescripcion": "BIOCOMPOST X 23 KG",
+        "CproMarca": "0",
+        "CproUbicacion": "0",
+        "CproTipoPrecio": null
+      }
+    ],
+    "Total": 4,
+    "Date": "2025-04-21T01:33:11.145Z"
+  },
+  {
+    "List": [
+      {
+        "CproId": 1,
+        "CproCodigo": 183,
+        "CaprId": 25,
+        "UnidCodigo": 50,
+        "CproCodigoint": "SBA00210",
+        "CproCodigobarras": " ",
+        "CproNombre": "BIOCOMPOST X 23 KG",
+        "CproDescripcion": "BIOCOMPOST X 23 KG",
+        "CproMarca": "0",
+        "CproUbicacion": "0",
+        "CproTipoPrecio": null
+      },
+      {
+        "CproId": 1,
+        "CproCodigo": 185,
+        "CaprId": 25,
+        "UnidCodigo": 50,
+        "CproCodigoint": "AAAAAAAAAAAAAAAAAAAAAA",
+        "CproCodigobarras": " ",
+        "CproNombre": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "CproDescripcion": "BIOCOMPOST X 23 KG",
+        "CproMarca": "0",
+        "CproUbicacion": "0",
+        "CproTipoPrecio": null
+      }
+    ],
+    "Total": 4,
+    "Date": "2025-04-21T01:33:24.765Z"
+  }
+]

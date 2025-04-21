@@ -1,0 +1,73 @@
+[
+  {
+    "List": [
+      {
+        "CproId": 1,
+        "CproCodigo": 183,
+        "CaprId": 25,
+        "UnidCodigo": 50,
+        "CproCodigoint": "SBA00210",
+        "CproCodigobarras": " ",
+        "CproNombre": "BIOCOMPOST X 23 KG",
+        "CproDescripcion": "BIOCOMPOST X 23 KG",
+        "CproMarca": "0",
+        "CproUbicacion": "0",
+        "CproTipoPrecio": null
+      },
+      {
+        "CproId": 1,
+        "CproCodigo": 185,
+        "CaprId": 25,
+        "UnidCodigo": 50,
+        "CproCodigoint": "AAAAAAAAAAAAAAAAAAAAAA",
+        "CproCodigobarras": " ",
+        "CproNombre": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "CproDescripcion": "BIOCOMPOST X 23 KG",
+        "CproMarca": "0",
+        "CproUbicacion": "0",
+        "CproTipoPrecio": null
+      },
+      {
+        "CproId": 1,
+        "CproCodigo": 180,
+        "CaprId": 25,
+        "UnidCodigo": 50,
+        "CproCodigoint": "SBA0555tt",
+        "CproCodigobarras": " ",
+        "CproNombre": "BIOCOMP compaosta redbull",
+        "CproDescripcion": "REDBULL",
+        "CproMarca": "0",
+        "CproUbicacion": "0",
+        "CproTipoPrecio": null
+      },
+      {
+        "CproId": 5,
+        "CproCodigo": 179,
+        "CaprId": 25,
+        "UnidCodigo": 50,
+        "CproCodigoint": "RB2025",
+        "CproCodigobarras": " ",
+        "CproNombre": "REDBULL 2",
+        "CproDescripcion": "REDBULL 2",
+        "CproMarca": "0",
+        "CproUbicacion": "0",
+        "CproTipoPrecio": null
+      },
+      {
+        "CproId": 11,
+        "CproCodigo": 9,
+        "CaprId": 25,
+        "UnidCodigo": 50,
+        "CproCodigoint": "SBA00210",
+        "CproCodigobarras": " ",
+        "CproNombre": "BIOCOMPOST X 23 KG",
+        "CproDescripcion": "BIOCOMPOST X 23 KG",
+        "CproMarca": "0",
+        "CproUbicacion": "0",
+        "CproTipoPrecio": null
+      }
+    ],
+    "Total": 7,
+    "Date": "2025-04-21T01:45:31.090Z"
+  }
+]
