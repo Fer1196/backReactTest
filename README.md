@@ -14,6 +14,8 @@ builder.Services.AddCors(options =>
         });
 });
 ``` 
+- Todas las APIS están aquí, al no específicar nombres se los puso con los métodos convenientes
+  ![image](https://github.com/user-attachments/assets/0c8fab05-fc20-4e16-abb1-906a3174df46)
 
 
 
